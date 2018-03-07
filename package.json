@@ -1,0 +1,19 @@
+{
+  "name": "bggen",
+  "version": "1.0.0",
+  "description": "Not an actual project.  Repository only for practicing git commands within bash. Not an actual project.  Repository only for practicing git commands within bash. aaa bbb ccc ddd eee fff ggg",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ATCran/BackgroundGenerator.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ATCran/BackgroundGenerator/issues"
+  },
+  "homepage": "https://github.com/ATCran/BackgroundGenerator#readme"
+}
